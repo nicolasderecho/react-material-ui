@@ -1,0 +1,14 @@
+Here is your key: 4d69050d
+
+Please append it to all of your API requests,
+
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=4d69050d
+
+Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=99aa6e4b-7020-4de6-b5fb-5b14d878155f
+If you did not make this request, please disregard this email.
+
+
+http://www.omdbapi.com/?s=flash&apikey=4d69050d
+
+
+http://www.omdbapi.com/
