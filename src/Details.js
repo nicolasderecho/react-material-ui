@@ -55,7 +55,7 @@ class Details extends React.Component {
       </Card>
     }
 
-    render = () => {
+    render() {
         const { display, onCloseDetails, fetching, classes, target } = this.props;
         return <Modal aria-labelledby="simple-modal-title" aria-describedby="simple-modal-description" open={display} onClose={onCloseDetails} className={classes.modal} >
             <div className={classes.modalContent}>
